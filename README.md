@@ -1,4 +1,4 @@
-p<h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
+<h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
 <h3 align="center">Brazilian, Front-End / Back-End / Mobile, Looking for an opportunity.</h3>
 
 - 🌱 I’m currently learning **PHP, TypeScript, React, Express, React Native and more...**
