@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
 <h3 align="center">Brazilian, Front-End / Back-End / Mobile, Looking for an opportunity.</h3>
 
-- 🌱 I’m currently learning **PHP, TypeScript, React, Express, React Native and more...**
+- 🌱 I’m currently learning **TypeScript, React, Node, React Native, GraphQL, and more...**
 
-- 🌠 I would like to learn **GraphQL, Vue, Angular.**
+- 🌠 I would like to learn **Vue, Angular.**
 
 - 📫 How to reach me **gustavosoaresbt@hotmail.com**
 
