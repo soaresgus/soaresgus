@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
 <h3 align="center">Brazilian, Front-End / Back-End / Mobile, Looking for an opportunity.</h3>
 
-- 🌱 I’m currently learning **TypeScript, React, Node, React Native, GraphQL, SQL, and more...**
+- 🌱 I’m currently learning **TypeScript, React, Node, React Native, and more...**
 
 - 🌠 I would like to learn **Next, Redux**
 
