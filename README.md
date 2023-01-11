@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React, Node, React Native, and more...**
 
-- 🌠 I would like to learn **Next, Redux**
+- 🌠 I would like to learn **Next**
 
 - 📫 How to reach me **gustavosoaresbt@hotmail.com**
 
