@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
-<h3 align="center">Brazilian, Front-End / Back-End / Mobile, Looking for an opportunity.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript, React, Node, React Native, and more...**
 
