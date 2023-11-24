@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Gustavo Soares</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, React, Node, React Native, and more...**
+- 🌱 I’m currently learning **TypeScript, React, NextJS, VueJS, Node, React Native, and more...**
 
-- 🌠 I would like to learn **Next**
+- 🌠 I would like to learn **Angular**
 
 - 📫 How to reach me **gustavosoaresbt@hotmail.com**
 
